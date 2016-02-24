@@ -1,2 +1,2 @@
 # vim
-vim tips,config,script
+vim技巧,配置,脚本
